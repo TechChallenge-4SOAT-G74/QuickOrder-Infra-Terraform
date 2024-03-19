@@ -22,7 +22,7 @@ Antes de executar este projeto, os seguintes itens deverão estar instalados no 
 * Terraform CLI
 * AWS CLI
 * Visual Studio Code
-<br />
+
 
 ## Instalação pelo Visual Studio Code
 
