@@ -99,7 +99,7 @@ Passo a passo:
 
 <br />
 
-**Passo Terraform AWS**
+**Passo a passo em vídeo Terraform AWS**
 
 <br />
 <div align="center">
