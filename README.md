@@ -94,3 +94,6 @@ Passo a passo:
 <br />
 
 ![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/cbc8ce6f-2603-4e72-a71f-9b19fb44d24b)
+
+![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/091e1cf7-504f-410d-8346-a8a606ed037c)
+
