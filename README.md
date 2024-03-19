@@ -77,3 +77,20 @@ Passo a passo:
 <br />
 
 ![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/f2afd2f0-dbfe-43b6-b598-b5a323250a77)
+
+<br />
+
+* Acessar o serviço **Load Balancers**, do EC2. Deverá existir um Load Balancer chamado **quickorder**. Copiar para área de transferência o valor do DNS name:
+
+<br />
+
+![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/3103844a-86ce-42ce-b32f-4c3e682e641d)
+
+
+<br />
+
+* Colar na barra de endereços do browser o valor do DNS name copiado no passo anterior, para que fique dessa forma: quickorder-1380821274.us-east-1.elb.amazonaws.com/swagger. Dessa forma, a API que fui publicada na aplicação poderá ser acessada. O resultado deverá ser conforme abaixo:
+
+<br />
+
+![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/cbc8ce6f-2603-4e72-a71f-9b19fb44d24b)
