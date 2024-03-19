@@ -53,3 +53,11 @@ Passo a passo:
 ![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/76934751-1a64-4090-879d-114bb05a2e09)
 
 <br />
+
+* Após alguns minutos executando o script, terminal deverá exibir um resultado dessa forma:
+
+<br />
+
+![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/07898a44-48b9-4e42-960e-7d5033145d31)
+
+<br />
