@@ -21,5 +21,16 @@ Antes de executar este projeto, os seguintes itens deverão estar instalados no 
 
 * Terraform CLI
 * AWS CLI
-* Visual Studio 2022 ou Visual Studio Code
+* Visual Studio Code
 <br />
+
+## Instalação pelo Visual Studio Code
+
+Passo a passo:
+
+* Baixar o projeto através do repositório do **GitHub**
+* Abrir o projeto no **Visual Studio Code**
+* Localizar os arquivos **main.tf** e **vars.tf** no Explorer:
+<br />
+
+![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/d4fb4b62-133e-46f1-9f16-eb07c11c9c69)
