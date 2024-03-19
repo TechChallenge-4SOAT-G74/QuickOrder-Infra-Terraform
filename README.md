@@ -20,7 +20,7 @@ fsouza.thadeu@gmail.com
 Antes de executar este projeto, os seguintes itens deverão estar instalados no computador:
 
 * Terraform CLI
-* AWS CLI
+* AWS CLI (logado com o usuário da sua conta AWS)
 * Visual Studio Code
 <br />
 
@@ -61,3 +61,19 @@ Passo a passo:
 ![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/07898a44-48b9-4e42-960e-7d5033145d31)
 
 <br />
+
+## Verificando o resultado na AWS:
+
+* Logar na sua conta AWS e acessar o serviço **EC2**. O cluster deverá estar desta forma após a execução do script terraform dos passos anteriores:
+
+<br />
+
+![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/7f037850-013f-4b9f-94a0-357b4d8238e7)
+
+<br />
+
+* Acessar o serviço **RDS**. A base de dados deverá estar conforme abaixo:
+
+<br />
+
+![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/f2afd2f0-dbfe-43b6-b598-b5a323250a77)
