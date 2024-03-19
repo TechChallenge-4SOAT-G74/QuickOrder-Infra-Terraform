@@ -43,3 +43,13 @@ Passo a passo:
 <br />
 
 ![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/c366580b-f05e-4ee9-a6f5-8f3dee4b12a0)
+
+<br />
+
+* Executar no terminal o comando  `terraform apply`. O terminal solicitará o imput das variáveis de credenciais AWS e de banco de dados. Após isso, o plano de provisionamento será mostrado conforme abaixo e deverá ser informado `yes`, para prosseguir:
+
+<br />
+
+![image](https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/76934751-1a64-4090-879d-114bb05a2e09)
+
+<br />
