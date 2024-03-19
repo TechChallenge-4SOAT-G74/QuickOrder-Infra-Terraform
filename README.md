@@ -15,7 +15,11 @@ fsouza.thadeu@gmail.com
 
 <br />
 
+## Pré-Requisitos
+
+Antes de executar este projeto, os seguintes itens deverão estar instalados no computador:
+
+* Terraform CLI
+* AWS CLI
+* Visual Studio 2022 ou Visual Studio Code
 <br />
-
-
-**Scripts Terrafor**
