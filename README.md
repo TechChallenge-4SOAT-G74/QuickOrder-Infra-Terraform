@@ -103,7 +103,7 @@ Passo a passo:
 
 <br />
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=qNlFbp0ErRk">
+      <a href="https://youtu.be/UCCqPMc3EKI">
      <img src="https://github.com/TechChallenge-4SOAT-G74/QuickOrder-Infra-Terraform/assets/19378661/5f610c8e-5840-4ecd-96ce-871bf0b8ef5e" 
       alt="Api" 
       style="width:560px;height:315px;">
